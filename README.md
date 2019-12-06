@@ -1,4 +1,4 @@
-# Find-The-Parity-Outlier-Kata
+# Kata-JS-Find-The-Parity-Outlier
 My solution for Kata "Find The Parity Outlier"  in JavaScript.
 
 # Kata URL:
